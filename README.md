@@ -1,5 +1,7 @@
 Project 5: Flask-Based Student Registration Web Application deployed using Jenkins
-##Objective
+
+## Objective
+
 This project is a Flask-based web application that allows users to register student details and store them in a MySQL database. The app is containerized using Docker and deployed using Jenkins on an AWS EC2 instance.
 
 ---
